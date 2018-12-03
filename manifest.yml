@@ -1,0 +1,4 @@
+applications:
+- name: CloudObjectStorage-ImportExport
+  host: CloudObjectStorage-ImportExport
+  memory: 256M
